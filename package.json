@@ -1,9 +1,0 @@
-{
-    "name":"aws_demo",
-    "version":"1.0.0",
-    "author": "akanksha",
-    "dependencies": {
-
-        "express":"4.17.1"
-    }
-}
